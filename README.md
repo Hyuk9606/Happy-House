@@ -90,7 +90,7 @@
 
 * 지도의 중심에서 가장 가까운 동물병원, 공원을 각각 최대 30개씩 보여준다.
 
-  ![apt](C:\Users\Lim Hyuk\git\Happy_House\image\map_button.JPG)
+  ![apt](./image/map_button.JPG)
 
 
 
