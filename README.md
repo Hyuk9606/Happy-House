@@ -1,9 +1,10 @@
 # Happy House
-<img src="./image/happyCatTree.png" align="left" />
 
+<img src="./image/happyCatTree.png" align="left" />
+<br>
 <br>
 
-## Intro
+
 
 주제 : 반려동물을 기르는 사용자에게 아파트 매매 정보를 제공하는 웹 서비스
 
@@ -11,7 +12,9 @@
 
 팀원 : 임혁(아파트 거래정보 부분), 안상현(회원가입, 로그인 부분)
 
-<br>
+<br/>
+<br/>
+<br/>
 
 ## Service
 
@@ -40,10 +43,6 @@
 * GitLab
 * Notion
 
-배포
-
-* Jenkins
-* Docker
 
 <br>
 
@@ -59,7 +58,7 @@
 
 * Welcome page
 
-![main](./image/main.JPG)
+![main](./image/Main.JPG)
 
 <br>
 
