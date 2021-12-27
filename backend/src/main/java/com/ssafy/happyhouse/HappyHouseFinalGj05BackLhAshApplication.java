@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HappyHouseFinalGj05BackLhAshApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HappyHouseFinalGj05BackLhAshApplication.class, args);
+		 SpringApplication.run(HappyHouseFinalGj05BackLhAshApplication.class, args);
 	}
 
 }

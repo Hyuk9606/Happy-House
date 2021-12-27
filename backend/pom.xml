@@ -11,7 +11,7 @@
 	<groupId>com.ssafy.happyhouse</groupId>
 	<artifactId>HappyHouse_Final_GJ_05_back_LH_ASH</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>HappyHouse_Final_GJ_05_back_LH_ASH</name>
 	<description>Happyhouse_backend</description>
 	<properties>
